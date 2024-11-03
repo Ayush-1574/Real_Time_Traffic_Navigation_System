@@ -8,8 +8,8 @@ To download our program, please copy and paste this line to your terminal:
 
           git clone https://github.com/Ayush-1574/Real_Time_Traffic_Navigation_System.git
 
-Then type  
-          cd .\Real_Time_Traffic_Navigation_System\
+Then type:  
+         ** cd .\Real_Time_Traffic_Navigation_System\
 
 Then to run the program / project in visual studio code type these commands:
 
