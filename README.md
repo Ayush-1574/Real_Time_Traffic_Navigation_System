@@ -15,6 +15,7 @@ Then type:
 Then to run the program / project in visual studio code type these commands:
 
           g++ project3.cpp
+          
           .\a.exe
 
 ![Screenshot 2024-11-03 090854](https://github.com/user-attachments/assets/fe28e168-6f1c-42ad-a820-505a7db53dd9)
