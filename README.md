@@ -6,5 +6,24 @@ The primary objective of this project is to enhance route accuracy and efficienc
 
 To download our program, please copy and paste this line to your terminal:
 
-git clone 
+git clone https://github.com/Ayush-1574/Real_Time_Traffic_Navigation_System.git
+
+Then type  cd .\Real_Time_Traffic_Navigation_System\
+
+Then to run the program / project type these commands
+
+g++ project3.cpp
+.\a.exe
+
+Now our program ask input 
+
+**Firstly it ask about the source cities from where you want to travel in the form of the string whose 1st letter is in capital form**
+**then it will ask about the destination to where you want to travel in the form of string whose 1st letter is in captial form**
+
+so now our code gives the output the shortest path from  the source city to destination
+
+Also provide the cost needed to travel across the path
+and the path in the shortest path which are in red alert / very high traffic
+
+
 
